@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+img {
+    display: inline-block;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+span {
+    display: inline-block;
+}
+.box {
+    width: 500px;
+    height: 800px;
+    border-radius: 20px;
+    border: 10px solid blue ;
+    margin-top: 200px;
+    background-color: white;
+}
+.somsa {
+    color: aqua;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.palov {
+    color: aqua;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+.monti {
+    color: aqua;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+.kabob {
+    color: aqua;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+.lagmon {
+    color: aqua;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+.baliq {
+    color: aqua;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+.mastava {
+    color: aqua;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+.salat {
+    color: aqua;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+.input {
+    border: 3px solid black;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 200px;
+    height: 40px;
+    color: blue;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn {
+    margin-left: 5px;
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: white;
+}
+.jami {
+    padding: 5px 3px;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 200px;
+    height: 60px;
+    background-color: white;
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+.main {
+    margin-top: 10px;
+    display: none;
+}
+.btn_1 {
+    margin-left: 50px;
+    width: 80px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: white;   
+}
+.btn_2 {
+    width: 80px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: white;
+}
+.btn_3 {
+    width: 80px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: white;
+}
+.btn_4 {
+    width: 80px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: white;
+}
